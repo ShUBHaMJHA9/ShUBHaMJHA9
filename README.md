@@ -1,3 +1,7 @@
+<div align="center">
+<img src="blob:https://github.com/5bd8c6cc-7cee-43df-931b-69d283690f1b" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
