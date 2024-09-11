@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ShUBHaMJHA9/ShUBHaMJHA9/blob/main/github-header-image.png" align="center" style="width: 100%;" alt="header" />
+  <img src="https://github.com/ShUBHaMJHA9/ShUBHaMJHA9/blob/main/1724139325865.jpeg" align="center" style="width: 100%;" alt="header" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jha</h1>
